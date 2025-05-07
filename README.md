@@ -48,4 +48,7 @@ Even the best model (Ridge) explains only 17.2% of the variation in attrition.
 
 <img width="875" alt="2" src="https://github.com/user-attachments/assets/8e5526fe-e2ac-4679-a0f4-1080562614dc" />
 
+At the end we used a logistic regression model for classification. we used the train group to predict attrition = 1 and obtained 88% accuracy.
+
+<img width="309" alt="4" src="https://github.com/user-attachments/assets/50f0d6df-d6a0-4d71-9387-868776429b27" />
 
