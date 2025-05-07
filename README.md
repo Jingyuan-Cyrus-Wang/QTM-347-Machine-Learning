@@ -52,3 +52,8 @@ At the end we used a logistic regression model for classification. we used the t
 
 <img width="309" alt="4" src="https://github.com/user-attachments/assets/50f0d6df-d6a0-4d71-9387-868776429b27" />
 
+Best Model: 
+Ridge Regression achieved the best performance by controlling overfitting and handling multicollinearity.
+
+Key Finding:
+Simpler regularized models can outperform more complex algorithms when data is properly preprocessed.
